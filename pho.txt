@@ -1,4 +1,9 @@
 step1
 changes in step1
 
+<<<<<<< HEAD
 step2
+=======
+step0.1
+step0.2
+>>>>>>> feature-branch
