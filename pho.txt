@@ -13,4 +13,7 @@ step3..1
 
 
 
-making changes to test git stash command 
+making changes to test git stash command
+
+
+MAKING CHANGES FIRST  IN THE REMOTE REPOSITORY FIRST TIME AND THE CLONE THAT IN THE LOCAL REPO SS
