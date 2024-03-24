@@ -8,4 +8,9 @@ step0.1
 step0.2
 >>>>>>> feature-branch
 
+<<<<<<< HEAD
 step3
+=======
+
+step3..1
+>>>>>>> feature-branch
